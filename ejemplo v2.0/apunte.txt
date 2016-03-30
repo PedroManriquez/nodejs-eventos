@@ -1,0 +1,3 @@
+para instalar un modulo de mysql en un proyecto te ubicas en la carpeta del proyecto en la consola y das
+
+"    npm install mysql     " para instalar los modulos y hacer la conexion en la pagina
